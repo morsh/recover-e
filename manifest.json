@@ -1,10 +1,11 @@
 {
 
+  "author": "Mor Shemesh",
   "manifest_version": 2,
   "name": "Recover-E",
-  "description": "Recover-E: Form Auto + Manual Recovery",
+  "description": "Recover-E: Form manual recovery. Recover input and textarea elements after form crash/refresh/close.",
   "version": "1.0",
-  "homepage_url": "http://temp.com",
+  "homepage_url": "https://github.com/morsh/recover-e",
   "icons": {
     "48": "icons/recover-e-48.png",
     "32": "icons/recover-e-32.png"
